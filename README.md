@@ -1,1 +1,0 @@
-[{"img":"","name":"parnian code","baner":"بزرگ ترین تیم برنامه نویسی در روبیکا و سازنده برنامه parnian ware"}]
